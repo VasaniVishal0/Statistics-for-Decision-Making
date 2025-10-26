@@ -50,5 +50,3 @@ The analysis explores property trends and probabilities using hypothesis testing
   Includes histograms, boxplots, and probability charts.
 
 ---
-
-## 🧩 Project Structure
